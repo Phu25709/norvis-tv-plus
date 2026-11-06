@@ -5,6 +5,14 @@
 </p>
 
 <p align="center"><strong>IPTV player cho Android TV, tối ưu remote và người dùng gia đình.</strong><br/>Android TV IPTV player designed for simple remote-first viewing.</p>
+<table align="center">
+  <tr>
+    <td align="center"><strong>☕ Java</strong><br/><sub>Android app</sub></td>
+    <td align="center"><strong>▦ XML</strong><br/><sub>Views & resources</sub></td>
+    <td align="center"><strong>▶ Media3</strong><br/><sub>ExoPlayer IPTV</sub></td>
+    <td align="center"><strong>⚙ Gradle</strong><br/><sub>APK build</sub></td>
+  </tr>
+</table>
 
 ## Tiếng Việt
 
@@ -101,4 +109,5 @@ Bản hiện tại ưu tiên tiếng Việt để người lớn tuổi dùng d�
 ## License
 
 Personal research and home-use project. Check the rights and terms of each IPTV source before using or redistributing it.
+
 
