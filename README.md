@@ -12,7 +12,14 @@
     <td align="center"><strong>▶ Media3</strong><br/><sub>ExoPlayer IPTV</sub></td>
     <td align="center"><strong>⚙ Gradle</strong><br/><sub>APK build</sub></td>
   </tr>
-</table>
+
+<p align="center">
+  <a href="https://github.com/Phu25709/tv-nha-plus/releases"><img src="https://img.shields.io/badge/Release-v0.2.27-7c3aed?style=flat-square&logo=github" alt="Release v0.2.27" /></a>
+  <a href="https://developer.android.com/about/versions/oreo"><img src="https://img.shields.io/badge/Android-API%2026%2B-3ddc84?style=flat-square&logo=android&logoColor=white" alt="Android API 26+" /></a>
+  <a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-17-orange?style=flat-square&logo=openjdk&logoColor=white" alt="Java 17" /></a>
+  <a href="https://developer.android.com/media/media3"><img src="https://img.shields.io/badge/Media3-ExoPlayer-4285f4?style=flat-square&logo=google" alt="Media3 ExoPlayer" /></a>
+  <a href="https://github.com/Phu25709/tv-nha-plus"><img src="https://img.shields.io/badge/Project-Personal%20use-64748b?style=flat-square" alt="Personal use project" /></a>
+</p>
 
 ## Tiếng Việt
 
@@ -109,5 +116,6 @@ Bản hiện tại ưu tiên tiếng Việt để người lớn tuổi dùng d�
 ## License
 
 Personal research and home-use project. Check the rights and terms of each IPTV source before using or redistributing it.
+
 
 
