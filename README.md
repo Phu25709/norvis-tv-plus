@@ -21,7 +21,13 @@
   <a href="https://github.com/Phu25709/tv-nha-plus"><img src="https://img.shields.io/badge/Project-Personal%20use-64748b?style=flat-square" alt="Personal use project" /></a>
 </p>
 
-## Tiếng Việt
+
+<table align="center">
+  <tr>
+    <td align="center"><strong>🇻🇳 Tiếng Việt</strong><br/><sub>Hướng dẫn chính · Remote-first</sub></td>
+    <td align="center"><strong>🇬🇧 English</strong><br/><sub>Quick start · Technical info</sub></td>
+  </tr>
+</table>\r\n## Tiếng Việt
 
 ### Tính năng
 
@@ -116,6 +122,7 @@ Bản hiện tại ưu tiên tiếng Việt để người lớn tuổi dùng d�
 ## License
 
 Personal research and home-use project. Check the rights and terms of each IPTV source before using or redistributing it.
+
 
 
 
