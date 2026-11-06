@@ -1,7 +1,7 @@
 # TV Nhà Plus
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Phu25709/tv-nha-plus/main/app/src/main/res/drawable-nodpi/tv_banner_art.jpg" alt="TV Nhà Plus banner" width="900" />
+  <img src="https://raw.githubusercontent.com/Phu25709/tv-nha-plus/main/tv_banner_art.jpg" alt="TV Nhà Plus banner" width="900" />
 </p>
 
 <p align="center"><strong>IPTV player cho Android TV, tối ưu remote và người dùng gia đình.</strong><br/>Android TV IPTV player designed for simple remote-first viewing.</p>
@@ -116,6 +116,7 @@ Bản hiện tại ưu tiên tiếng Việt để người lớn tuổi dùng d�
 ## License
 
 Personal research and home-use project. Check the rights and terms of each IPTV source before using or redistributing it.
+
 
 
 
