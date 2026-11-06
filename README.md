@@ -80,6 +80,13 @@ gradle assembleRelease
 - APK: `TV-Nha-Plus-0.2.27.apk`
 - Minimum Android version: Android 8 / API 26
 
+## Công nghệ sử dụng / Technology stack
+
+- **Java**: ngôn ngữ chính của ứng dụng Android.
+- **Android Views + XML resources**: giao diện Android TV và tài nguyên hiển thị.
+- **Media3 ExoPlayer 1.4.1**: phát HLS/M3U và MPEG-TS, đọc track video/audio/phụ đề.
+- **Gradle Groovy**: cấu hình build và đóng gói APK.
+- **JSON + HttpURLConnection**: manifest `update.json` và kiểm tra bản cập nhật nền.
 ## Ngôn ngữ giao diện / UI language
 
 Bản hiện tại ưu tiên tiếng Việt để người lớn tuổi dùng dễ hơn. English documentation is included above. Full in-app Vietnamese/English switching is planned for the next localization pass so every Guide, settings and playback message is translated consistently.
@@ -94,3 +101,4 @@ Bản hiện tại ưu tiên tiếng Việt để người lớn tuổi dùng d�
 ## License
 
 Personal research and home-use project. Check the rights and terms of each IPTV source before using or redistributing it.
+
